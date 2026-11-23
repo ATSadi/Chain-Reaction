@@ -8,3 +8,5 @@ build/
 dist/
 .cursor/
 handoff/
+
+gcm-diagnose.log
