@@ -1,0 +1,209 @@
+﻿Diagnose log at 2026-11-23T16:56:11Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.5.1+90d5f897f164a8fe07d2aa3bf7db439b0b4e03ea
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\User
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=LAPTOP-FDNA8JK1
+GIT_TRACE2_PARENT_SID=5d2d654a-864b-415c-a685-7971cb2c4bba
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+ProgramW6432=C:\Program Files
+OneDrive=C:\Users\User\OneDrive
+windir=C:\WINDOWS
+TMPDIR=C:\Users\User\AppData\Local\Temp
+EFC_23044_2283032206=1
+NVIDIAWHITELISTED=0x01
+PSExecutionPolicyPreference=Bypass
+CURSOR_AGENT=1
+LC_CTYPE=C.UTF-8
+ZES_ENABLE_SYSMAN=1
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\User\bin;e:\cursor\resources\app\node_modules\@vscode\ripgrep\bin;C:\Program Files\Microsoft\jdk-17.0.20.8-hotspot\bin;D:\Oracle\21c\dbhomeXE\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Users\User\Downloads\php-8.3.11;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\User\AppData\Local\nvm;C:\nvm4w\nodejs;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\cursor\resources\app\bin;C:\mingw64\bin;C:\Program Files\GitHub CLI\;C:\Program Files\nodejs\;C:\Users\User\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\User\AppData\Local\Programs\Python\Python312\;C:\Users\User\AppData\Local\Programs\Python\Launcher\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\Downloads\D\intelFPGA\17.0\modelsim_ase\win32aloem;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Tesseract-OCR;C:\Users\User\Downloads\sqlite-tools-win-x64-3460000;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Heroku\bin;C:\Program Files\Git;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\Users\User\Downloads\php-8.3.11 (2);C:\Users\User\Downloads\php-8.3.11;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\nvm;C:\nvm4w\nodejs;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\SQLite.SQLite_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\mingw64\bin;E:\cursor\resources\app\bin;C:\Users\User\.bun\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\PHP.PHP.8.3_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;E:\Antigravity IDE\bin;C:\Users\User\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.2-full_build\bin;C:\Users\User\apache-maven-3.9.16\bin
+USERNAME=User
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+CURSOR_RIPGREP_PATH=e:\cursor\resources\app\node_modules\@vscode\ripgrep\bin\rg.exe
+LOCALAPPDATA=C:\Users\User\AppData\Local
+MSYSTEM=MINGW64
+SESSIONNAME=Console
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+ProgramData=C:\ProgramData
+VSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess
+JAVA_HOME=C:\Program Files\Microsoft\jdk-17.0.20.8-hotspot\
+USERDOMAIN=LAPTOP-FDNA8JK1
+CURSOR_LAYOUT=unifiedAgent
+PROCESSOR_REVISION=9a03
+NO_COLOR=1
+PROCESSOR_LEVEL=6
+NUMBER_OF_PROCESSORS=16
+EFC_23044_3789132940=1
+CURSOR_EXTENSION_HOST_ROLE=agent-exec
+EFC_23044_2775293581=1
+ProgramFiles(x86)=C:\Program Files (x86)
+AGENT_TRANSCRIPTS=C:\Users\User\.cursor\projects\e-AI-PROJ\agent-transcripts
+VSCODE_NLS_CONFIG={"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"E:\\cursor\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+TMP=C:\Users\User\AppData\Local\Temp
+EFC_23044_1592913036=1
+VSCODE_HANDLES_UNCAUGHT_ERRORS=true
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUuQEPlABEk6s5Vt748lhjAQAAAACAAAAAAAQZgAAAAEAACAAAACSTwe8GkQL75v2j0t/84PvCG8EvsUgBJaC3zAacrWgdQAAAAAOgAAAAAIAACAAAAB32AogVhwP57kBf3hTVFZ2zj4OU0dW8Qe43mYrzQsKD2AAAAD8Oyy+G9WRLAhd21fl2yQHoR81ZOlGfNnulHMKMMDqItgwETFKqF1+CQnKTQxotaehoclT4WWYbbWZK7Gp5F5VEecXbvIKwQkzye3hZCP5W9fFno4JzUdQfRbwyell1ARAAAAA3BFUDNMJJKBGTeLXYPJJrQbk9jnv8ixlvdFdjBD7y/9yk8qdrr9UyHhsi3cuC67lzhl8AF10hmi0UeMZbb9Dkw==
+EFC_23044_1262719628=1
+SHIM_MCCOMPAT=0x810000001
+PLINK_PROTOCOL=ssh
+CURSOR_CONVERSATION_ID=2cdc3fd9-0dd9-453a-8714-480541569854
+MSYS=disable_pcon
+ACSvcPort=17532
+ProgramFiles=C:\Program Files (x86)
+NVM_HOME=C:\Users\User\AppData\Local\nvm
+VSCODE_IPC_HOOK=\\.\pipe\0a96c2a5-3.17.8-main-sock
+VSCODE_CODE_CACHE_PATH=C:\Users\User\AppData\Roaming\Cursor\CachedData\2fdd31c9f33f7fbe501f2d57772dc5bf64b63620
+RlsSvcPort=22112
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+NVM_SYMLINK=C:\nvm4w\nodejs
+CURSOR_WORKSPACE_LABEL=AI PROJ
+HOME=C:\Users\User
+FORCE_COLOR=0
+SystemRoot=C:\WINDOWS
+CommonProgramW6432=C:\Program Files\Common Files
+EFC_23044_4126798990=1
+LOGONSERVER=\\LAPTOP-FDNA8JK1
+USERPROFILE=C:\Users\User
+PUBLIC=C:\Users\Public
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-FDNA8JK1
+TERM=dumb
+APPDATA=C:\Users\User\AppData\Roaming
+HOMEDRIVE=C:
+VSCODE_PID=2340
+_ZO_DOCTOR=0
+__CURSOR_SANDBOX_ENV_RESTORE=builtin unset CURSOR_CONVERSATION_ID CURSOR_AGENT_STORE_FILES_DIR CURSOR_AGENT_STORE_SHARED_PATHS 2>/dev/null || true; builtin export CURSOR_CONVERSATION_ID='2cdc3fd9-0dd9-453a-8714-480541569854'
+PSModulePath=C:\Users\User\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\PowerShell\Modules\
+VSCODE_CWD=C:\WINDOWS\System32
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_2340_QGARXGGZYPGWEJWK
+PROCESSOR_ARCHITEW6432=AMD64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+TEMP=C:\Users\User\AppData\Local\Temp
+SystemDrive=C:
+VSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost
+VSCODE_PROCESS_TITLE=extension-host (agent-exec) AI PROJ [3-16]
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\User\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\User\AppData\Local\Temp\c4744a8cb4984e1002e6fdda'... OK
+Reading from temporary file 'C:\Users\User\AppData\Local\Temp\c4744a8cb4984e1002e6fdda'... OK
+Deleting temporary file 'C:\Users\User\AppData\Local\Temp\c4744a8cb4984e1002e6fdda'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\User
+UserDataDirectoryPath: C:\Users\User\.gcm
+GetCurrentDirectory(): E:\AI PROJ\Chain-Reaction-main
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:13473/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.46.0.windows.1'
+Locating current repository...Not inside a Git repository.
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/User/.gitconfig	user.name=ATSadi
+file:C:/Users/User/.gitconfig	user.email=ahnafsoad@gmail.com
+file:C:/Users/User/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/User/.gitconfig	filter.lfs.required=true
+file:C:/Users/User/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/User/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/User/.gitconfig	safe.directory=C:/Users/User/Documents/GitHub/Hamster
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\User\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\User\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
